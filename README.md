@@ -28,12 +28,14 @@
 
 ## Recent Writing
 
+- [Shifting Way Left: Integrating Trivy Security Scanning Into Your IDE AI Agent](https://saurabh-chaubey.com/post/devops/shifting-way-left-integrating-trivy-security-scanning-into-ide-ai-agent/)
 - [Migrating 70+ Microservices to Azure Kubernetes Service](https://saurabh-chaubey.com/post/cloud/migrating-microservices-to-azure-kubernetes-service/)
 - [Building an Internal Developer Portal with Backstage](https://saurabh-chaubey.com/post/platform-engineering/building-internal-developer-portal-backstage/)
 - [The Golden Path to Production](https://saurabh-chaubey.com/post/platform-engineering/golden-path-to-production/)
 
 ## Open Source & Projects
 
+- **[trivy-security-agent-skill](https://github.com/chaubes/trivy-security-agent-skill)** — AI agent skill for Trivy security scanning in the IDE — shift way left
 - **[sample-anypoint-platform-api-wrapper](https://github.com/chaubes/sample-anypoint-platform-api-wrapper)** — Automated resource provisioning using Anypoint Platform APIs
 - **[k8s-kubeadm-ansible](https://github.com/chaubes/k8s-kubeadm-ansible)** — Ansible playbooks to provision K8s clusters with kubeadm
 - **[log4j2-sqs-appender](https://github.com/chaubes/log4j2-sqs-appender)** — Custom Log4j2 appender shipping logs to Amazon SQS
