@@ -28,6 +28,10 @@
 
 ## Recent Writing
 
+- [Meet DepAdvisor: Your AI Sidekick for Dependency Updates](https://saurabh-chaubey.com/post/devops/meet-depadvisor-ai-sidekick-for-dependency-updates/)
+- [The Wiki That Writes Itself: How AI Agents Can Build and Share Your Organisation's Knowledge](https://saurabh-chaubey.com/post/platformengg/the-wiki-that-writes-itself-how-ai-agents-can-build-and-share-your-organisations-knowledge-automatically/)
+- [Terraform Modules as Contracts: Designing Interfaces That Work Across Any Environment](https://saurabh-chaubey.com/post/devops/terraform-modules-as-contracts-designing-interfaces/)
+- [Terraform State Management for Multi-Environment Teams](https://saurabh-chaubey.com/post/devops/terraform-state-management-multi-environment-teams/)
 - [Shifting Way Left: Integrating Trivy Security Scanning Into Your IDE AI Agent](https://saurabh-chaubey.com/post/devops/shifting-way-left-integrating-trivy-security-scanning-into-ide-ai-agent/)
 - [Migrating 70+ Microservices to Azure Kubernetes Service](https://saurabh-chaubey.com/post/cloud/migrating-microservices-to-azure-kubernetes-service/)
 - [Building an Internal Developer Portal with Backstage](https://saurabh-chaubey.com/post/platform-engineering/building-internal-developer-portal-backstage/)
@@ -35,6 +39,7 @@
 
 ## Open Source & Projects
 
+- **[depadvisor](https://github.com/chaubes/depadvisor)** — AI-powered dependency update advisor built with LangGraph — analyses risk across Python, Node.js, and Java projects
 - **[trivy-security-agent-skill](https://github.com/chaubes/trivy-security-agent-skill)** — AI agent skill for Trivy security scanning in the IDE — shift way left
 - **[sample-anypoint-platform-api-wrapper](https://github.com/chaubes/sample-anypoint-platform-api-wrapper)** — Automated resource provisioning using Anypoint Platform APIs
 - **[k8s-kubeadm-ansible](https://github.com/chaubes/k8s-kubeadm-ansible)** — Ansible playbooks to provision K8s clusters with kubeadm
