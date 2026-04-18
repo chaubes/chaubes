@@ -39,6 +39,7 @@
 
 ## Open Source & Projects
 
+- **[iaccostagent](https://github.com/chaubes/iaccostagent)** — AI-powered infrastructure cost advisor built with LangGraph — analyses Terraform plans for cost impact
 - **[depadvisor](https://github.com/chaubes/depadvisor)** — AI-powered dependency update advisor built with LangGraph — analyses risk across Python, Node.js, and Java projects
 - **[trivy-security-agent-skill](https://github.com/chaubes/trivy-security-agent-skill)** — AI agent skill for Trivy security scanning in the IDE — shift way left
 - **[sample-anypoint-platform-api-wrapper](https://github.com/chaubes/sample-anypoint-platform-api-wrapper)** — Automated resource provisioning using Anypoint Platform APIs
