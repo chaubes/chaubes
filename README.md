@@ -1,6 +1,6 @@
 # Hey, I'm Saurabh 👋
 
-**Lead Platform Engineer** based in Sydney, Australia — building developer platforms, automating everything, and migrating enterprises to the cloud.
+**Lead Platform Engineer** based in Sydney, Australia — building developer platforms, automating everything, and exploring agentic AI for DevOps.
 
 20 years across Investment Banking, Insurance, and Government — from building trading systems at RBS London to leading platform engineering at QBE Insurance.
 
@@ -13,6 +13,8 @@
 🔌 **Integration & APIs** — MuleSoft, API-led architecture, event-driven systems (Confluent Kafka)
 
 ⚡ **DevOps & Automation** — CI/CD pipelines (Azure DevOps), custom CLIs, chatbots, IaC
+
+🤖 **Agentic AI** — LangGraph-based agent pipelines, LLM-powered DevOps tooling (DepAdvisor, IaCCostAgent, Trivy agent)
 
 ## Certifications
 
